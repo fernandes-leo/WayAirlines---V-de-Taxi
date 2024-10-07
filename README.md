@@ -48,6 +48,13 @@ Este projeto é um aplicativo SwiftUI desenvolvido como parte de um teste de có
 
 - **ViewModels**: Gerencia a lógica e os dados de cada visualização, seguindo o padrão MVVM. 
 
+
+<p align="center">
+  <img src="https://github.com/fernandes-leo/WayAirlines---V-de-Taxi/blob/main/home.png" alt="Tela Home" width="250">
+  <img src="https://github.com/fernandes-leo/WayAirlines---V-de-Taxi/blob/main/history.png" alt="Histórico" width="250">
+  <img src="https://github.com/fernandes-leo/WayAirlines---V-de-Taxi/blob/main/detail.png" alt="Detalhes" width="250">
+</p>
+
   
 
 ## Uso 
